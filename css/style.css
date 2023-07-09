@@ -119,9 +119,14 @@ html {
   background-color: #ffffff;
   padding: 5px;
 }
+.footer-center {
+  text-align: center;
+  color: aliceblue;
+  padding: 35px;
+}
 .footer-content-left {
   padding-left: 40px;
-  margin-top: 20px;
+
   float: left;
 }
 .icon-style-left {
