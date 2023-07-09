@@ -61,7 +61,28 @@ html {
   padding: 0.6em;
   margin-bottom: 1em;
 }
-
+.section-list {
+  list-style: none;
+}
+.section-list-element {
+  padding: 0;
+  line-height: 50px;
+  color: #ffffff;
+}
+.section-link {
+  text-decoration: none;
+  color: aliceblue;
+  transition: 0.3s;
+}
+.section-link:hover {
+  color: rgb(68, 68, 68);
+}
+#contacts {
+  background: #4d2323;
+}
+#education {
+  background: #4d2323;
+}
 .main-container section {
   margin-bottom: 15px;
 }
